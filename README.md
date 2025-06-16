@@ -1,4 +1,4 @@
-# Проект: [Определение возраста покупателей ](https://github.com/aq2003/Portfolio/tree/main/Gold%20Recovery)
+# Проект: [Определение возраста покупателей ](https://github.com/KlimovAndrey88/Practicum_projects/tree/main/Определение%20возраста%20покупателей)
 
 ## Набор данных: 
 Набор фотографий людей с указанием возраста (faces).
